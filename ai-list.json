@@ -2,7 +2,7 @@
   {
     "brand": "OpenAI",
     "models": [
-      { "label": "GPT-4o", "value": "gpt-4o" },
+      { "label": "GPT-4o this is from github", "value": "gpt-4o" },
       { "label": "GPT-4o-mini", "value": "gpt-4o-mini" },
       { "label": "GPT-4.5-preview", "value": "gpt-4.5-preview" },
       { "label": "ChatGPT-4o-latest", "value": "chatgpt-4o-latest" },
